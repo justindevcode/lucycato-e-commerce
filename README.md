@@ -9,7 +9,7 @@ Spring Framework 기반으로 최신 기술 스택 학습과, 본질적인 실�
 ### Period  : 2024/03/~
 
 ## Swagger msa서버 스펙에 맞춰서 gateway 에서 접근가능하도록 구현
-<img src="https://github.com/user-attachments/assets/978d0b7a-c68f-4e27-af77-aabc3be055ed" width="50%">  
+<img src="https://github.com/user-attachments/assets/978d0b7a-c68f-4e27-af77-aabc3be055ed" width="70%">  
 * Swagger를 이용해 Gateway 접근을 구현한 경험을 통해, 복잡한 서비스 구조에서도 효율적인 API 관리를 제공할 수 있으며, 시스템 확장성과 팀 간 협업을 크게 향상
 
 ## 동적쿼리 QueryDSL Spring 3 버전에 맞춰 리펙토링 적용
@@ -19,15 +19,15 @@ Spring Framework 기반으로 최신 기술 스택 학습과, 본질적인 실�
 * 시스템의 일관된 배포와 운영을 자동화하여 개발 속도와 안정성을 높여 인프라 관리 효율성을 극대화
 
 ## 핵사고날아키텍처
-<img width="1579" alt="2" src="https://github.com/user-attachments/assets/479ba675-50cb-4a0e-a8d6-7a073aaf75c8" width="50%">  
+<img alt="2" src="https://github.com/user-attachments/assets/479ba675-50cb-4a0e-a8d6-7a073aaf75c8" width="70%">  
 * 핵사고날 아키텍처를 적용하여 외부 의존성 변화에도 핵심 코드를 유지한 채 유연하게 대응한 경험을 통해, 안정적인 시스템 확장성과 유연한 유지보수를 지원하여 회사의 개발 효율성을 크게 향상, 기존 레이어드 아키텍처에서는 외부 종속성으로 인한 문제 발생률이 1.5배 높았지만 핵사고날 아키텍처는 이러한 문제를 해결
 
 ## msa 유저인가 패스포트전략
-<img width="1615" alt="1" src="https://github.com/user-attachments/assets/1e2f52b1-b64a-4ea7-92eb-7532f7310fbf" width="50%">  
+<img alt="1" src="https://github.com/user-attachments/assets/1e2f52b1-b64a-4ea7-92eb-7532f7310fbf" width="70%">  
 * 패스포트 전략을 사용해 유저 인가 정보를 스레드 메모리에 저장하여 외부 통신 없이 빠르게 유저 정보를 가져오는 방식으로, DB나 Redis에 대한 호출 시간을 **0ms**에 가깝게 줄여 성능을 극대화할 수 있었음, 이 방식은 기존의 외부 호출 대비 처리 시간을 5~20ms 절약하고, 시스템의 부하를 크게 줄여 줄 수 있다.
 
 ## 모니터링툴  Prometheus, Loki, Grafana
-<img src="https://github.com/user-attachments/assets/b2ad7ea8-0d60-480a-a4ac-85d8b4e6d324" width="50%">  
+<img src="https://github.com/user-attachments/assets/b2ad7ea8-0d60-480a-a4ac-85d8b4e6d324" width="70%">  
 * 방대한 서버 모니터링을 효과적으로 수행한 경험을 통해, 실시간 데이터 시각화와 로그 관리로 인해 문제 진단 시간이 최대 60% 단축되고, 리소스 사용 최적화로 서버 성능 개선, 이를 통해 인프라 관리 효율성을 크게 향상.
 
 ## 카프카, 게이트웨이 유레카 사용
