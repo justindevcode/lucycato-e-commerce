@@ -1,7 +1,6 @@
 # :star: About
 
 ## 🍎 Team Lucycato 소개
-안녕하세요 Team Lucycato 리더 도학태입니다.
 Team Lucycato는 스타트업, 금융업에 종사하는 다양한 백엔드 개발자로
 이루어진 스터디 모임입니다. 우리는 매주 정기적으로 온라인, 오프라인 모임을 통해
 Spring Framework 기반으로 최신 기술 스택 학습과, 본질적인 실력향상을 위해
